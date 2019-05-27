@@ -1,0 +1,52 @@
+body{
+    margin:0px;
+    background-color: grey;
+}
+div.body{
+    width:80%;
+    height:80%;
+    margin:auto;
+    background: url("/home.jpg") no-repeat;
+    background-size: cover;
+}
+h1,h2{
+   color:white;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: yellowgreen;
+}
+a.active { 
+    background-color: yellow;
+}
+h3{
+    color:#E5DEDC;
+}
+ div.addBrand{
+     width:90%;
+     height:80%;
+     margin:auto; 
+     background-color: #5F5755;
+ }
+ div.addModelName{
+    width:90%;
+    height:85%;
+    margin:auto; 
+    background-color: #5F5755;
+    padding:20px;
+}
+div.viewInvetory{
+    width:90%;
+    height:85%;
+    margin:auto; 
+    background-color: #5F5755;
+    padding:20px;
+    display: flex;
+    justify-content: center;
+}
+thead{
+    background-color: black;
+    color: beige;
+}
+tr{
+    color: beige;
+}
